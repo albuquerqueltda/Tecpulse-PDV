@@ -1,25 +1,7 @@
-# tecpulse
-1. Defina o Objetivo do Projeto
-Qual problema sua criptomoeda irá resolver?
-Qual é o público-alvo?
-Será uma moeda, token ou um protocolo?
-2. Escolha da Tecnologia
-Blockchain: Você irá criar sua própria blockchain ou usar uma existente (como Ethereum)?
-Consenso: Qual algoritmo de consenso você usará? (Proof of Work, Proof of Stake, etc.)
-3. Desenvolvimento
-Smart Contracts: Se for um token em uma plataforma como Ethereum, você precisará programar contratos inteligentes.
-Wallets: Pense em como os usuários armazenarão suas moedas (carteiras).
-4. Regulamentação
-Verifique as leis e regulamentos sobre criptomoedas no seu país e em outros mercados relevantes.
-5. Marketing e Comunidade
-Construa uma comunidade em torno do seu projeto (fóruns, redes sociais).
-Crie um website informativo e um whitepaper.
-6. Financiamento
-Você planeja realizar uma ICO, IEO ou outra forma de captação de recursos?
-Considere parcerias com investidores ou plataformas de crowdfunding.
-7. Lançamento
-Planeje um cronograma de lançamento e desenvolvimento.
-Crie um roadmap claro para o projeto.
-8. Manutenção e Atualizações
-Prepare-se para atualizar o software e lidar com feedback da comunidade.
-Mantenha a segurança e a escalabilidade do projeto.
+# tecpulse ##Projeto PDV (Ponto de Venda) Um sistema de PDV simples e eficiente, desenvolvido para pequenas e médias empresas, com funcionalidades para o gerenciamento de vendas, estoque e clientes. 
+Índice - [Sobre o Projeto](#sobre-o-projeto) - [Funcionalidades](#funcionalidades) - [Tecnologias Utilizadas](#tecnologias-utilizadas) - [Instalação](#instalação) - [Configuração](# configuração) - [Uso](#uso) - [Contribuição](#contribuição) - [Licença](#licença) 
+Sobre o Projeto O sistema de PDV foi projetado para simplificar o processo de vendas em estabelecimentos comerciais, facilitando o controle de estoque, cadastro de clientes e envio de relatórios. Ele permite realizar transações de forma rápida, gerenciar produtos e gerar relatórios de vendas, auxiliando na tomada de decisões. 
+Funcionalidades - **Gestão de Vendas**: Registrar vendas, aplicar descontos e calcular o total da compra com impostos. - **Controle de Estoque**: Adicionar, editar e remover produtos, com atualização automática do estoque a cada venda. - **Cadastro de Clientes**: Gerenciar dados dos clientes para um atendimento personalizado. - **Relatórios**: Gerar relatórios diários, semanais ou mensais de vendas e entrega de produtos. - **Controle de Acesso**: Gerenciamento de usuários com níveis de permissão.
+Tecnologias Utilizadas - **Front-end**: HTML, CSS, JavaScript (React) - **Back-end**: Node.js com Express - **Banco de Dados**: MySQL (ou PostgreSQL) - **Autenticação**: JWT para sessões seguras - **Gerenciamento de Dependências**: npm 
+Instalação ### Pré-requisitos - [Node.js](https://nodejs.org/) - [MySQL]( https://www.mysql.com/) 
+Passos 1. Clone o repositório: ```bash git clone https://github.com/albuquerqueltda-tecpulse/pdv-projeto.git cd pdv-projeto 
